@@ -1,0 +1,5 @@
+﻿3687C4F1BB922D47CE5AE8629CD692FED2F16CC48F2BC599F4D5B9732814E864 *C:\Users\Spenc\Desktop\Stablizing the Finacnial system\Clones in last 14 days.csv
+83D70D3E9E7FAD34010979BB00BF9A7D20A51197AF0E4AC3B575F8456D659894 *C:\Users\Spenc\Desktop\Stablizing the Finacnial system\Stablizing the Finacnial system_hashes.txt
+742488C6D4A4BF929AC7F58B55F09C8C165149391B714960FB816B739CC009BC *C:\Users\Spenc\Desktop\Stablizing the Finacnial system\Total views in last 14 days.csv
+9027211C5BBA585E63BA596CB52CF3DF9D61233AE5CE843D0147EC048F72D8F0 *C:\Users\Spenc\Desktop\Stablizing the Finacnial system\Unique cloners in last 14 days.csv
+4639417CF22FEDDDB17774E486EC3522A2142409BA835C389A718DAD32B97B48 *C:\Users\Spenc\Desktop\Stablizing the Finacnial system\Unique visitors in last 14 days.csv
